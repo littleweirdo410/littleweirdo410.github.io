@@ -2,11 +2,15 @@
 
 ## Проекты в сфере NLP (обработки естественного языка)
 
+### Тестирование модели dardem/xlm-roberta-large-uk-toxicity для анализа тональности
+
+[курлык](https://colab.research.google.com/drive/10y7pnhnHkP-ZO5z0IPmwPYANsdCB2qwW?usp=sharing)
+
 ### Дообучение моноязычной RoBERTa (youscan/ukr-roberta-base) для распознавания именованных сущностей
 
 [мурмяу](https://colab.research.google.com/drive/18d_zQr_LlzCWz8dXa3ynn8JHxHYsq3sK?usp=sharing)
 
-### ПРОВЕРКА "ПОНИМАНИЯ" МОДЕЛЬЮ bert-base-chinese СИСТЕМЫ КЛАССИФИКАТОРОВ ("СЧЁТНЫХ СЛОВ") В КИТАЙСКОМ ЯЗЫКЕ
+### Тестирование "ПОНИМАНИЯ" МОДЕЛЬЮ bert-base-chinese СИСТЕМЫ КЛАССИФИКАТОРОВ ("СЧЁТНЫХ СЛОВ") В КИТАЙСКОМ ЯЗЫКЕ
 
 Данный проект был выполнен в рамках домашнего задания по предмету "Компьютерная морфология и синтаксис" (преп. канд. физ.-мат. наук Сорокин А.А.)
 
