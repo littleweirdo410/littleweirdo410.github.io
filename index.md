@@ -1,37 +1,17 @@
-## Погодите немного, и здесь точно что-нибудь будет
+Приветствую потенциальных работодателей и/или единомышленников, а также всех интересующихся на своей персональной странице! Здесь представлены все живые и действующие на данный момент проекты, так или иначе связанные с программированием и выполненные мной лично. 
 
-You can use the [editor on GitHub](https://github.com/littleweirdo410/littleweirdo410.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+## Проекты в сфере NLP (обработки естественного языка)
 
 ### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/littleweirdo410/littleweirdo410.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+
+## Проекты в сфере разработки десктопных приложений
+
+Как известно, на Python в наше время можно создать практически что угодно (начиная приложениями под Android на Kivy и заканчивая десктопными кроссплатформенными Франкенштейнами на Tkinter и PyQt). Далеко не факт (мягко говоря), что это "что угодно" будет отличаться эффективностью расходования ресурсов компьютера, удобством использования или приятным дизайном, но когда выбор доступных тебе инструментов не так разнообразен, искушение достать швейцарский нож и поиграться с ним весьма велико.
+
+## Проекты в сфере веб-разработки
+
+Стоит отметить, что 2 из 3-х представленных ниже проектов (все, кроме интерактивной карты, изначально размещённой на запасном российском домене) в своё время пострадали от отключения российских банков от системы SWIFT, поскольку домены для них (оба в зоне .xyz) были куплены у регистратора Namecheap из США. Когда настало время продлевать домены, я уже не могла оплатить их без значительных танцев с бубном, криптой или виртуальными иностранными картами. 
