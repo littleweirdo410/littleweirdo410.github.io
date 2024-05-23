@@ -22,11 +22,20 @@
 
 [мяу](https://colab.research.google.com/drive/1Qx4VvXdV5SOH10PQRHy0ZroNumWWWcYh?usp=sharing)
 
+
+### Исследование изменения качества классификации при добавлении в обучающую выборку нейтральных предложений
+
+Данный проект был выполнен мной совместно с моей одногруппницей Валерией Богдановой в рамках спецкурса "Методы машинного обучения для решения проектных задач компьютерной лингвистики" (организаторы -- МГУ и фонд "Интеллект", преп. Студеникина К.А.) и изначально был рассчитан на двоих участников.  
+
+https://colab.research.google.com/drive/1pX1MafNYwkZrF7TFz5lgmNS-qZbZ4vFk?usp=sharing
+
+### Работа над улучшением и развитием проекта [Factura](https://github.com/grapaul/Factura)
+
+https://colab.research.google.com/drive/1CdQgEiFeK4v-Fc6qj7kFKbHp5D8EZcE1?usp=sharing
+
 ### Построение разделяющей поверхности для выборки с помощью самостоятельной реализации перцептрона Розенблатта
 
 [мяу_](https://colab.research.google.com/drive/12LeLK9iGrhN9eueey8DBuOypfxo-DcAY?usp=sharing)
-
-### Работа над улучшением и развитием проекта [Factura](https://github.com/grapaul/Factura)
 
 ## Проекты в сфере разработки десктопных приложений
 
