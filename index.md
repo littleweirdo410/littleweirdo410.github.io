@@ -7,7 +7,7 @@
 
 ## Проекты в сфере NLP (обработки естественного языка)
 
-### Тестирование модели ```dardem/xlm-roberta-large-uk-toxicity``` для анализа тональности
+### Тестирование модели `dardem/xlm-roberta-large-uk-toxicity` для анализа тональности
 
 Данный проект был выполнен в рамках домашнего задания по предмету "Машинный перевод" (преп. канд. физ.-мат. наук Сорокин А.А.). 
 [1](https://colab.research.google.com/drive/10y7pnhnHkP-ZO5z0IPmwPYANsdCB2qwW?usp=sharing)
