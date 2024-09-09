@@ -1,3 +1,5 @@
+<script async defer src="https://buttons.github.io/buttons.js"></script>
+
 Приветствую потенциальных работодателей и/или единомышленников, а также всех интересующихся на своей персональной странице! Здесь представлены все живые, действующие на данный момент и обновляющиеся с разной периодичностью проекты, так или иначе связанные с программированием (и частично дизайном) и выполненные мной лично. 
 
 ### Кратко обо мне:
@@ -63,7 +65,9 @@
 
 ### [Еженедельное культурно-просветительское интернет-издание «Китайская неделя»](https://chineseweekly.ru/)
 
-Исходный код проекта размещён в моём [репозитории на GitHub](https://github.com/littleweirdo410/chineseweekly).
+Исходный код проекта размещён в моём [репозитории на GitHub](https://github.com/littleweirdo410/chineseweekly)
+<!-- Place this tag where you want the button to render. -->
+<a class="github-button" href="https://github.com/littleweirdo410/chineseweekly/fork" data-color-scheme="no-preference: dark; light: dark; dark: dark;" data-size="large" aria-label="Fork littleweirdo410/chineseweekly on GitHub">Fork</a>
 
 #### Рождение идеи
 
