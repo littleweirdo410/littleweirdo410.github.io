@@ -24,10 +24,13 @@
 
 ### Дообучение моноязычной RoBERTa (```youscan/ukr-roberta-base```) для распознавания именованных сущностей
 
+##### <a style="color:#E8710A">Открыть в Google Colab:</a> [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/18d_zQr_LlzCWz8dXa3ynn8JHxHYsq3sK?usp=sharing)
+
 Данный проект также был выполнен в рамках домашнего задания по предмету "Машинный перевод" (преп. канд. физ.-мат. наук Сорокин А.А.) и в некотором роде является логическим продолжением предыдущего проекта. 
-[2](https://colab.research.google.com/drive/18d_zQr_LlzCWz8dXa3ynn8JHxHYsq3sK?usp=sharing)
 
 ### Тестирование "ПОНИМАНИЯ" МОДЕЛЬЮ ```bert-base-chinese``` СИСТЕМЫ КЛАССИФИКАТОРОВ ("СЧЁТНЫХ СЛОВ") В КИТАЙСКОМ ЯЗЫКЕ
+
+##### <a style="color:#E8710A">Открыть в Google Colab:</a> [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Qx4VvXdV5SOH10PQRHy0ZroNumWWWcYh?usp=sharing)
 
 Данный проект был выполнен в рамках домашнего задания по предмету "Компьютерная морфология и синтаксис" (преп. канд. физ.-мат. наук Сорокин А.А.)
 
@@ -36,9 +39,6 @@
 Все описанные современной лингвистикой средства категоризации имён в общем случае подразделяются на именные классы и классификаторы.
 
 Ноутбук обильно снабжён ~~схемами и~~ мемами
-
-[3](https://colab.research.google.com/drive/1Qx4VvXdV5SOH10PQRHy0ZroNumWWWcYh?usp=sharing)
-
 
 ### Исследование изменения качества классификации текстов по их тональности при добавлении в обучающую выборку нейтральных предложений
 
