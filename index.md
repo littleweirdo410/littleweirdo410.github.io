@@ -18,7 +18,8 @@
 
 ### Тестирование модели `dardem/xlm-roberta-large-uk-toxicity` для анализа тональности
 
-<ins> Открыть в Google Colab: [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/10y7pnhnHkP-ZO5z0IPmwPYANsdCB2qwW?usp=sharing)</ins> 
+##### Открыть в Google Colab:
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/10y7pnhnHkP-ZO5z0IPmwPYANsdCB2qwW?usp=sharing)
 
 Данный проект был выполнен в рамках домашнего задания по предмету "Машинный перевод" (преп. канд. физ.-мат. наук Сорокин А.А.). 
 
