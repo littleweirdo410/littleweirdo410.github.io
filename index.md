@@ -65,9 +65,7 @@
 
 ### [Еженедельное культурно-просветительское интернет-издание «Китайская неделя»](https://chineseweekly.ru/)
 
-Исходный код проекта размещён в моём [репозитории на GitHub](https://github.com/littleweirdo410/chineseweekly)
-<!-- Place this tag where you want the button to render. -->
-<a class="github-button" href="https://github.com/littleweirdo410/chineseweekly/fork" data-color-scheme="no-preference: dark; light: dark; dark: dark;" data-size="large" aria-label="Fork littleweirdo410/chineseweekly on GitHub">Fork</a>
+<a class="github-button" href="https://github.com/littleweirdo410/chineseweekly" data-color-scheme="no-preference: dark; light: dark; dark: dark;" data-size="large" aria-label="Fork littleweirdo410/chineseweekly on GitHub">Исходный код</a>
 
 #### Рождение идеи
 
