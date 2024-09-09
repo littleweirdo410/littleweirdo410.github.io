@@ -48,7 +48,7 @@
 
 ### Работа над улучшением и развитием проекта Factura
 
-<a class="github-button" href="(https://github.com/grapaul/Factura" data-color-scheme="no-preference: dark; light: dark; dark: dark;" data-size="large" aria-label="Fork littleweirdo410/chineseweekly on GitHub">Исходный код проекта на GitHub</a>
+<a class="github-button" href="https://github.com/grapaul/Factura" data-color-scheme="no-preference: dark; light: dark; dark: dark;" data-size="large" aria-label="Fork grapaul/Factura on GitHub">Исходный код проекта на GitHub</a>
 
 Данный вид работ выполнялся в мини-группе из 4-х человек, включая меня, Валерию Богданову, Анну Жуковскую и Алсу Закирову, под руководством нашего преподавателя Гращенкова П.В. (доцент, д.филол.н.) в рамках предусмотренной учебным планом проектной деятельности (предмет "Проектные исследования в фундаментальной и прикладной лингвистике").
 
