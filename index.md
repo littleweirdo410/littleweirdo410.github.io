@@ -63,7 +63,7 @@
 
 ### [Еженедельное культурно-просветительское интернет-издание «Китайская неделя»](https://chineseweekly.ru/)
 
-<a href="https://github.com/littleweirdo410/chineseweekly">Исходный код проекта размещён в моём репозитории на GitHub</a>.
+Исходный код проекта размещён в моём [репозитории на GitHub](https://github.com/littleweirdo410/chineseweekly).
 
 #### Рождение идеи
 
