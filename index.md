@@ -1,4 +1,4 @@
-<head><link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
+<head><link rel="shortcut icon" type="image/x-icon" href="favicon.ico?">
 <script async defer src="https://buttons.github.io/buttons.js"></script></head>
 
 Приветствую потенциальных работодателей и/или единомышленников, а также всех интересующихся на своей персональной странице! Здесь представлены все живые, действующие на данный момент и обновляющиеся с разной периодичностью проекты, так или иначе связанные с программированием (и частично дизайном) и выполненные мной лично. 
