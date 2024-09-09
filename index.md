@@ -65,7 +65,7 @@
 
 ### [Еженедельное культурно-просветительское интернет-издание «Китайская неделя»](https://chineseweekly.ru/)
 
-<a class="github-button" href="https://github.com/littleweirdo410/chineseweekly" data-color-scheme="no-preference: dark; light: dark; dark: dark;" data-size="large" aria-label="Fork littleweirdo410/chineseweekly on GitHub">Исходный код</a>
+<a class="github-button" href="https://github.com/littleweirdo410/chineseweekly" data-color-scheme="no-preference: dark; light: dark; dark: dark;" data-size="large" aria-label="Fork littleweirdo410/chineseweekly on GitHub">Исходный код на GitHub</a>
 
 #### Рождение идеи
 
