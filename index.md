@@ -11,12 +11,12 @@
 ### Содержание документа:
 
 1. <a href="#1">Проекты в сфере NLP (обработки естественного языка)</a>
-   - 1
-   - 2
+   - <a href="#sentim" style="color:#00b899">Тестирование «способности» модели `dardem/xlm-roberta-large-uk-toxicity` к анализу тональности</a>
+   - <a href="#roberta" style="color:#00b899">Дообучение моноязычной RoBERTa (```youscan/ukr-roberta-base```) для распознавания именованных сущностей</a>
    - <a href="#bert" style="color:#00b899">Тестирование "понимания" моделью ```bert-base-chinese``` системы классификаторов ("счётных слов") в китайском языке</a>
-   - 4
-   - 5
-   - 6
+   - <a href="#neutral" style="color:#00b899">Исследование изменения качества классификации текстов по тональности при добавлении в обучающую выборку нейтральных предложений</a>
+   - <a href="#factura" style="color:#00b899">Работа над улучшением и развитием проекта Factura</a>
+   - <a href="#percep" style="color:#00b899">Построение разделяющей поверхности для выборки с помощью самостоятельной реализации Розенблатта на Python в Google Colab</a>
 3. <a href="#2">Проекты в сфере разработки десктопных приложений</a>
    - <a href="#folk" style="color:#00b899">«Фольклор 2.0»</a>
 4. <a href="#3">Проекты в сфере веб-разработки</a>
@@ -27,13 +27,13 @@
 
 ## Проекты в сфере <a id="1" style="color:#B5E853">NLP</a> (обработки естественного языка)
 
-### Тестирование модели `dardem/xlm-roberta-large-uk-toxicity` для анализа тональности
+### Тестирование <a id="sentim" style="color:#B5E853">«способности»</a> модели `dardem/xlm-roberta-large-uk-toxicity` к анализу тональности
 
 ##### <a style="color:#E8710A">Открыть в Google Colab:</a> [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/10y7pnhnHkP-ZO5z0IPmwPYANsdCB2qwW?usp=sharing)
 
 Данный проект был выполнен в рамках домашнего задания по предмету "Машинный перевод" (преп. канд. физ.-мат. наук Сорокин А.А.). 
 
-### Дообучение моноязычной RoBERTa (```youscan/ukr-roberta-base```) для распознавания именованных сущностей
+### Дообучение моноязычной <a id="roberta" style="color:#B5E853">RoBERTa</a> (```youscan/ukr-roberta-base```) для распознавания именованных сущностей
 
 ##### <a style="color:#E8710A">Открыть в Google Colab:</a> [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/18d_zQr_LlzCWz8dXa3ynn8JHxHYsq3sK?usp=sharing)
 
@@ -51,13 +51,13 @@
 
 Ноутбук обильно снабжён ~~схемами и~~ мемами
 
-### Исследование изменения качества классификации текстов по их тональности при добавлении в обучающую выборку нейтральных предложений
+### Исследование изменения качества классификации текстов по тональности при добавлении в обучающую выборку <a id="neutral" style="color:#B5E853">нейтральных предложений</a>
 
 ##### <a style="color:#E8710A">Открыть в Google Colab:</a> [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1pX1MafNYwkZrF7TFz5lgmNS-qZbZ4vFk?usp=sharing)
 
 Данный проект был выполнен мной совместно с моей одногруппницей Валерией Богдановой в рамках спецкурса "Методы машинного обучения для решения проектных задач компьютерной лингвистики" (организаторы — МГУ и фонд "Интеллект", преп. Студеникина К.А.) и изначально был рассчитан на двоих участников. Преподаватель для удобства разделила требования к заданию на две части, которые можно выполнять в индивидуальном порядке последовательно друг за другом — мне оставалось лишь сделать выбор в пользу одной из них. Поскольку мне всегда нравилось работать непосредственно с данными, да и задача уровня "просто дообучить модель и посмотреть, что получится" показалась мне чуть менее интересной, я остановилась на первой части, суть которой состояла в том, чтобы препарировать 2 совершенно разных датасета для анализа тональности ("Emotion Classification in Russian: Feature Engineering and Analysis" и CEDR), привести их к единому формату и "подмешать" в последний из упомянутых датасетов нейтральные примеры из первого, поскольку в CEDR такая категория отсутствует. Кроме того, подготовить для коллеги по проекту надо было не один датасет, а целых 9, содержащих в себе разное количество нейтральных примеров. 
 
-### Работа над улучшением и развитием проекта Factura
+### Работа над улучшением и развитием проекта <a id="factura" style="color:#B5E853">Factura</a>
 
 <a class="github-button" href="https://github.com/grapaul/Factura" data-color-scheme="no-preference: dark; light: dark; dark: dark;" data-size="large" aria-label="Fork grapaul/Factura on GitHub">Исходный код проекта на GitHub</a>
 
@@ -70,7 +70,7 @@
 
 ##### <a style="color:#E8710A">Открыть в Google Colab:</a> [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1CdQgEiFeK4v-Fc6qj7kFKbHp5D8EZcE1?usp=sharing)
 
-### Построение разделяющей поверхности для выборки с помощью самостоятельной реализации перцептрона Розенблатта на Python в Google Colab
+### Построение разделяющей поверхности для выборки с помощью самостоятельной реализации <a id="percep" style="color:#B5E853">перцептрона</a> Розенблатта на Python в Google Colab
 
 ##### <a style="color:#E8710A">Открыть в Google Colab:</a> [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/12LeLK9iGrhN9eueey8DBuOypfxo-DcAY?usp=sharing)
 
