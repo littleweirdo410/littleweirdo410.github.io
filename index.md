@@ -158,9 +158,15 @@
 5. произвести небольшой апдейт подвала (заменить адреса криптокошельков действующими и убрать ссылки, ведущие на некоторые давно мной заброшенные соцсети, в том числе и запрещённые) и персональной информации в разделе «Об авторе»;    
 6. возобновить email-рассылку (эл.почта на домене уже создана заново, как говорится, пишите письма: [info@chineseweekly.ru](mailto:info@chineseweekly.ru), а вместо SendPulse можно перейти на Unisender или RuSender).
 
-### https://moscowfolklore.ru/
+### Русская и татарская музыкальная фольклорная традиция в современной Москве: актуализация и репрезентация ([moscowfolklore.ru](https://moscowfolklore.ru/))
 
-### https://milenchik.ru/
+<a class="github-button" href="https://github.com/littleweirdo410/folklore_2.0_web" data-color-scheme="no-preference: dark; light: dark; dark: dark;" data-size="large" aria-label="Fork littleweirdo410/folklore_2.0_web">Исходный код на GitHub</a>
+
+Сайт был создан в 2022 году в целях демонстрации результатов бакалаврской выпускной квалификационной работой «Русская и татарская музыкальная фольклорная традиция в современной Москве: актуализация и репрезентация»
+
+### Интерактивная карта лингвистических экспедиций ОТиПЛ МГУ ([milenchik.ru](https://milenchik.ru/))
+
+<a class="github-button" href="https://github.com/littleweirdo410/expeditions_otipl" data-color-scheme="no-preference: dark; light: dark; dark: dark;" data-size="large" aria-label="Fork littleweirdo410/expeditions_otipl">Исходный код на GitHub</a>
 
 ## Первые шаги в сфере <a id="4" style="color:#B5E853">дизайна</a>
 
