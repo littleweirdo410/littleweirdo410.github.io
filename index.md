@@ -51,7 +51,7 @@
 
 Ноутбук обильно снабжён ~~схемами и~~ мемами
 
-### Исследование изменения качества классификации текстов по тональности при добавлении в обучающую выборку <a id="neutral" style="color:#B5E853">нейтральных предложений</a>
+### <a id="neutral" style="color:#B5E853">Исследование</a> изменения качества классификации текстов по тональности при добавлении в обучающую выборку нейтральных предложений
 
 ##### <a style="color:#E8710A">Открыть в Google Colab:</a> [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1pX1MafNYwkZrF7TFz5lgmNS-qZbZ4vFk?usp=sharing)
 
