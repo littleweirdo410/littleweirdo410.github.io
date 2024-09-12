@@ -39,7 +39,7 @@
 
 Данный проект также был выполнен в рамках домашнего задания по предмету "Машинный перевод" (преп. канд. физ.-мат. наук Сорокин А.А.) и в некотором роде является логическим продолжением предыдущего проекта. 
 
-### Тестирование <a id="bert" style="color:#B5E853">«понимания»</a> моделью ```bert-base-chinese``` системы классификаторов ("счётных слов") в китайском языке
+### Тестирование <a id="bert" style="color:#B5E853">«понимания»</a> моделью ```bert-base-chinese``` системы классификаторов («счётных слов») в китайском языке
 
 ##### <a style="color:#E8710A">Открыть в Google Colab:</a> [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Qx4VvXdV5SOH10PQRHy0ZroNumWWWcYh?usp=sharing)
 
