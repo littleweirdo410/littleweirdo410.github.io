@@ -385,4 +385,21 @@
 
 <a href="#top" id="back-to-top" class="back-to-top" title="Back to top">В начало ▲</a>
 
-<script src="script.js?"></script>
+<script>
+   document.addEventListener("DOMContentLoaded", function () {
+  const backToTop = document.getElementById("back-to-top");
+ 
+  window.addEventListener("scroll", function () {
+    if (window.pageYOffset &gt; 300) {
+      backToTop.style.display = "block";
+    } else {
+      backToTop.style.display = "none";
+    }
+  });
+ 
+  backToTop.addEventListener("click", function (event) {
+    event.preventDefault();
+    window.scrollTo({ top: 0, behavior: "smooth" });
+  });
+});
+</script>
