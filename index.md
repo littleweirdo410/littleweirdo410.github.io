@@ -1,4 +1,5 @@
 <head>
+   <meta name="viewport" content="width=device-width, initial-scale=1">
    <link rel="shortcut icon" type="image/x-icon" href="favicon.ico?">
    <link rel="stylesheet" href="style.css?">
 <script async defer src="https://buttons.github.io/buttons.js"></script>
