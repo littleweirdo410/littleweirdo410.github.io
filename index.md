@@ -383,7 +383,7 @@
 
 Приятного ознакомления!
 
-<a href="#top" id="back-to-top" class="back-to-top" title="Back to top">В начало ▲</a>
+<a href="#top" id="back-to-top" class="back-to-top" title="Back to top">▲</a>
 
 <script>
    document.addEventListener("DOMContentLoaded", function () {
