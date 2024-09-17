@@ -398,20 +398,4 @@
 
 Приятного ознакомления!
 
-<a href="#top" id="back-to-top" class="back-to-top" title="Back to top" style=".back-to-top {
-  position: fixed;
-  bottom: 20px;
-  right: 20px;
-  display: none;
-  font-size: 24px;
-  color: #B5E853;
-  padding: 5px 10px;
-  border-radius: 5px;
-  cursor: pointer;
-  z-index: 1000;
-}
- 
-.back-to-top:hover {
-  background: #333;
-  text-decoration: none;
-}">В начало</a>
+<a href="#top" id="back-to-top" class="back-to-top" title="Back to top">В начало</a>
