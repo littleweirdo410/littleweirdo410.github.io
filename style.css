@@ -1,10 +1,10 @@
 .back-to-top {
   position: fixed;
   background-color: rgba(166, 166, 176, 0.12);
-  width:20vh;
-  height:20vh;
-  max-height:20vw;
-  max-width:20vw;
+  width: 5vh;
+  height: 5vh;
+  max-height: 5vw;
+  max-width: 5vw;
   bottom: 20px;
   right: 20px;
   display: none;
