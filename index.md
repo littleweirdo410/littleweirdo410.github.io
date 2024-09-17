@@ -1,6 +1,6 @@
 <head>
    <link rel="shortcut icon" type="image/x-icon" href="favicon.ico?">
-   <link rel="stylesheet" href="style.css?">
+   <link rel="stylesheet" href="style.css">
 <script async defer src="https://buttons.github.io/buttons.js"></script>
 </head>
 
@@ -390,7 +390,7 @@
   const backToTop = document.getElementById("back-to-top");
  
   window.addEventListener("scroll", function () {
-    if (window.pageYOffset &gt; 300) {
+    if (window.pageYOffset > 300) {
       backToTop.style.display = "block";
     } else {
       backToTop.style.display = "none";
