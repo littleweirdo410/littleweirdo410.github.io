@@ -1,5 +1,5 @@
 .back-to-top {
-  text-align: center;
+  text-align: match-parent;
   position: fixed;
   background-color: rgba(166, 166, 176, 0.12);
   width: 5vh;
@@ -40,6 +40,6 @@
     float: left;
     font-weight: bold;
     background-color: rgba(166, 166, 176, 0.12);
-    padding: 5px 5px 5px 5px;
+    padding: 1px 1px 1px 1px;
   }
 }
