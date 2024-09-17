@@ -1,24 +1,8 @@
 <head>
    <link rel="shortcut icon" type="image/x-icon" href="favicon.ico?">
    <link rel="stylesheet" href="style.css?">
+   
 <script async defer src="https://buttons.github.io/buttons.js"></script>
-<script>
-   document.addEventListener("DOMContentLoaded", function () {
-  const backToTop = document.getElementById("back-to-top");
- 
-  window.addEventListener("scroll", function () {
-    if (window.pageYOffset &gt; 300) {
-      backToTop.style.display = "block";
-    } else {
-      backToTop.style.display = "none";
-    }
-  });
- 
-  backToTop.addEventListener("click", function (event) {
-    event.preventDefault();
-    window.scrollTo({ top: 0, behavior: "smooth" });
-  });
-});</script>
 </head>
 
 <a id="top" style="color:#ffffff">Приветствую</a> потенциальных работодателей и/или единомышленников, а также всех интересующихся на своей персональной странице! Здесь представлены все живые, действующие на данный момент и обновляющиеся с разной периодичностью проекты, так или иначе связанные с программированием (и частично дизайном) и выполненные мной лично. 
