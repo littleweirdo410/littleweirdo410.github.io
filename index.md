@@ -1,7 +1,25 @@
 <head><link rel="shortcut icon" type="image/x-icon" href="favicon.ico?">
-<script async defer src="https://buttons.github.io/buttons.js"></script></head>
+<script async defer src="https://buttons.github.io/buttons.js"></script>
+<script>
+   document.addEventListener("DOMContentLoaded", function () {
+  const backToTop = document.getElementById("back-to-top");
+ 
+  window.addEventListener("scroll", function () {
+    if (window.pageYOffset &gt; 300) {
+      backToTop.style.display = "block";
+    } else {
+      backToTop.style.display = "none";
+    }
+  });
+ 
+  backToTop.addEventListener("click", function (event) {
+    event.preventDefault();
+    window.scrollTo({ top: 0, behavior: "smooth" });
+  });
+});</script>
+</head>
 
-Приветствую потенциальных работодателей и/или единомышленников, а также всех интересующихся на своей персональной странице! Здесь представлены все живые, действующие на данный момент и обновляющиеся с разной периодичностью проекты, так или иначе связанные с программированием (и частично дизайном) и выполненные мной лично. 
+<a id="top" style="color:#ffffff">Приветствую</a> потенциальных работодателей и/или единомышленников, а также всех интересующихся на своей персональной странице! Здесь представлены все живые, действующие на данный момент и обновляющиеся с разной периодичностью проекты, так или иначе связанные с программированием (и частично дизайном) и выполненные мной лично. 
 
 ### Кратко обо мне:
 * Выпускница факультета иностранных языков и регионоведения МГУ (2022), бакалаврская программа "Регионоведение России"
@@ -379,3 +397,21 @@
 В июле 2024 г. к моим сферам интереса довольно случайно добавился дизайн, хотя смежные побочные задачи я время от времени выполняла ещё со школы. В основном это было связано, конечно же, с вёрсткой фронтенда для моих веб-проектов, а также с оформлением групп ВКонтакте, созданием обложек, постов и несложных афиш в Crello (ныне VistaCreate), а также непродолжительной работой над факультетской газетой «Глаголица». Большинство имеющихся на данный момент наработок можно увидеть в специально созданном в целях демонстрации моего прогресса [Телеграм-канале](https://t.me/dela_krasivo). Кое-что можно найти и на [Behance](https://www.behance.net/gallery/202258523/uchebnyj-proekt-Bike-Way).
 
 Приятного ознакомления!
+
+<a href="#top" id="back-to-top" class="back-to-top" title="Back to top" style=".back-to-top {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  display: none;
+  font-size: 24px;
+  color: #B5E853;
+  padding: 5px 10px;
+  border-radius: 5px;
+  cursor: pointer;
+  z-index: 1000;
+}
+ 
+.back-to-top:hover {
+  background: #333;
+  text-decoration: none;
+}">В начало</a>
