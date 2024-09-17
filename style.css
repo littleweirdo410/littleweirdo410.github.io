@@ -1,4 +1,5 @@
 .back-to-top {
+  text-align: center;
   position: fixed;
   background-color: rgba(166, 166, 176, 0.12);
   width: 5vh;
@@ -38,5 +39,7 @@
     content: attr(aria-label);
     float: left;
     font-weight: bold;
+    background-color: rgba(166, 166, 176, 0.12);
+    padding: 5px 5px 5px 5px;
   }
 }
