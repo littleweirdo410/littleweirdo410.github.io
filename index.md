@@ -1,7 +1,6 @@
 <head>
    <link rel="shortcut icon" type="image/x-icon" href="favicon.ico?">
    <link rel="stylesheet" href="style.css?">
-   
 <script async defer src="https://buttons.github.io/buttons.js"></script>
 </head>
 
@@ -385,3 +384,5 @@
 Приятного ознакомления!
 
 <a href="#top" id="back-to-top" class="back-to-top" title="Back to top">В начало ▲</a>
+
+<script src="script.js?"></script>
