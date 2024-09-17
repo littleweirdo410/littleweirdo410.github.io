@@ -1,4 +1,6 @@
-<head><link rel="shortcut icon" type="image/x-icon" href="favicon.ico?">
+<head>
+   <link rel="shortcut icon" type="image/x-icon" href="favicon.ico?">
+   <link rel="stylesheet" href="style.css?">
 <script async defer src="https://buttons.github.io/buttons.js"></script>
 <script>
    document.addEventListener("DOMContentLoaded", function () {
