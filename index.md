@@ -33,13 +33,13 @@
 
 ### Тестирование <a id="sentim" style="color:#B5E853">«способности»</a> модели `dardem/xlm-roberta-large-uk-toxicity` к анализу тональности
 
-##### <a style="color:#E8710A">Открыть в Google Colab:</a> [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/10y7pnhnHkP-ZO5z0IPmwPYANsdCB2qwW?usp=sharing)
+#### <a style="color:#E8710A">Открыть в Google Colab:</a> [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/10y7pnhnHkP-ZO5z0IPmwPYANsdCB2qwW?usp=sharing)
 
 Данный проект был выполнен в рамках домашнего задания по предмету "Машинный перевод" (преп. канд. физ.-мат. наук Сорокин А.А.). 
 
 ### Дообучение моноязычной <a id="roberta" style="color:#B5E853">RoBERTa</a> (```youscan/ukr-roberta-base```) для распознавания именованных сущностей
 
-##### <a style="color:#E8710A">Открыть в Google Colab:</a> [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/18d_zQr_LlzCWz8dXa3ynn8JHxHYsq3sK?usp=sharing)
+#### <a style="color:#E8710A">Открыть в Google Colab:</a> [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/18d_zQr_LlzCWz8dXa3ynn8JHxHYsq3sK?usp=sharing)
 
 Данный проект также был выполнен в рамках домашнего задания по предмету "Машинный перевод" (преп. канд. физ.-мат. наук Сорокин А.А.) и в некотором роде является логическим продолжением предыдущего проекта. 
 
@@ -79,7 +79,7 @@ https://disk.yandex.ru/i/6GxNrc8PMebr8w
 
 ### <a id="neutral" style="color:#B5E853">Исследование</a> изменения качества классификации текстов по тональности при добавлении в обучающую выборку нейтральных предложений
 
-##### <a style="color:#E8710A">Открыть в Google Colab:</a> [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1pX1MafNYwkZrF7TFz5lgmNS-qZbZ4vFk?usp=sharing)
+#### <a style="color:#E8710A">Открыть в Google Colab:</a> [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1pX1MafNYwkZrF7TFz5lgmNS-qZbZ4vFk?usp=sharing)
 
 Данный проект был выполнен мной совместно с моей одногруппницей Валерией Богдановой в рамках спецкурса "Методы машинного обучения для решения проектных задач компьютерной лингвистики" (организаторы — МГУ и фонд "Интеллект", преп. Студеникина К.А.) и изначально был рассчитан на двоих участников. Преподаватель для удобства разделила требования к заданию на два этапа, которые нужно было выполнить в индивидуальном порядке последовательно друг за другом — мне оставалось лишь взять на себя ответственность за один из них.
 
@@ -104,11 +104,11 @@ https://disk.yandex.ru/i/6GxNrc8PMebr8w
 * Обучение базовым навыкам написания правил в Factura, в ходе которого мы общими силами выявили в самой системе несколько неочевидных багов;
 * Выявление основных групп возможных фактов, для извлечения которых можно было бы дописать новые правила
 
-##### <a style="color:#E8710A">Открыть в Google Colab:</a> [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1CdQgEiFeK4v-Fc6qj7kFKbHp5D8EZcE1?usp=sharing)
+#### <a style="color:#E8710A">Открыть в Google Colab:</a> [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1CdQgEiFeK4v-Fc6qj7kFKbHp5D8EZcE1?usp=sharing)
 
 ### Построение разделяющей поверхности для выборки с помощью самостоятельной реализации <a id="percep" style="color:#B5E853">перцептрона</a> Розенблатта на Python в Google Colab
 
-##### <a style="color:#E8710A">Открыть в Google Colab:</a> [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/12LeLK9iGrhN9eueey8DBuOypfxo-DcAY?usp=sharing)
+#### <a style="color:#E8710A">Открыть в Google Colab:</a> [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/12LeLK9iGrhN9eueey8DBuOypfxo-DcAY?usp=sharing)
 
 Данная мини-работа выполнена в рамках домашнего задания по предмету "Компьютерная морфология и синтаксис" (преп. канд. физ.-мат. наук Сорокин А.А.).
 
