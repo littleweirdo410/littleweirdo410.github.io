@@ -45,7 +45,7 @@
 
 ### Тестирование <a id="bert" style="color:#B5E853">«понимания»</a> моделью ```bert-base-chinese``` системы классификаторов («счётных слов») в китайском языке
 
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Qx4VvXdV5SOH10PQRHy0ZroNumWWWcYh?usp=sharing)
+#### <a style="color:#E8710A">Открыть в Google Colab:</a> [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Qx4VvXdV5SOH10PQRHy0ZroNumWWWcYh?usp=sharing)
 
 Данный проект был выполнен в рамках домашнего задания по предмету «Компьютерная морфология и синтаксис» (преп. канд. физ.-мат. наук Сорокин А.А.).
 
